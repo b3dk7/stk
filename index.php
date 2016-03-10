@@ -24,8 +24,14 @@ include('header.php');
 
 <p>A big thank you to all the wonderful people of the Karoo, and our friends from further afield, who have all worked so hard to help create this website. The support and love you have shown will save the Karoo.</p>
 
-If you wish to help us, you can raise awareness by signing our<a href="http://www.thepetitionsite.com/en-ca/takeaction/984/402/144/"> care2 online petition</a>.
-           
+        
+          
+<h2>Support us</h2>
+To support us, you can sign our online petition on <a href="http://www.thepetitionsite.com/en-ca/takeaction/984/402/144/">care2</a>, like our  <a href="https://www.facebook.com/savethekaroo/">Facebook page</a> or follow us in <a href="https://twitter.com/savethekaroo">Twitter</a>.
+<h2>Media</h2>
+<a href="http://landbou.com/nuus/webwerf-wys-ander-kant-van-ska/">
+  <img src="img/landbou.png" />
+</a>
                 
 <?php
 include('footer.php');
