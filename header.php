@@ -42,40 +42,40 @@
                     <span class="icon-bar"></span>
                     <span class="icon-bar"></span>
                 </button>
-                <a class="navbar-brand" href="index.php">Save The Karoo</a>
+                <a class="navbar-brand" href="index">Save The Karoo</a>
             </div>
             <!-- Collect the nav links, forms, and other content for toggling -->
             <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
                 <ul class="nav navbar-nav navbar-right">
                     <li>
-                        <a href="index.php">Home</a>
+                        <a href="index">Home</a>
                     </li>
                     <li>
-                        <a href="ska-ruins-karoo.php">Article</a>
+                        <a href="ska-ruins-karoo">Article</a>
                     </li>
                     <li>
-                        <a href="faq.php">FAQ</a>
+                        <a href="faq">FAQ</a>
                     </li>
                     <li>
-                        <a href="karoo-stories.php">Karoo Stories</a>
+                        <a href="karoo-stories">Karoo Stories</a>
                     </li>
                     <li class="dropdown">
                         <a href="#" class="dropdown-toggle" data-toggle="dropdown">Galleries<b class="caret"></b></a>
                         <ul class="dropdown-menu">
                             <li>
-                                <a href="fauna.php">Fauna</a>
+                                <a href="fauna">Fauna</a>
                             </li>
                             <li>
-                                <a href="flora.php">Flora</a>
+                                <a href="flora">Flora</a>
                             </li>
                             <li>
-                                <a href="mixed.php">Mixed</a>
+                                <a href="mixed">Mixed</a>
                             </li>
                             
                         </ul>
                     </li>
                     <li>
-                        <a href="contact.php">Contact</a>
+                        <a href="contact">Contact</a>
                     </li>
                     
                     

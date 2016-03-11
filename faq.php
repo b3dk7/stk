@@ -99,7 +99,7 @@ include('header.php');
                         </div>
                         <div id="collapseSeven" class="panel-collapse collapse">
                             <div class="panel-body" itemprop="acceptedAnswer">
-                                Funding, is the greatest challenge facing SKA.  More information about monetary issues can be found in our article's <a href="ska-ruins-karoo.php#funding-ska">funding</a> section.
+                                Funding, is the greatest challenge facing SKA.  More information about monetary issues can be found in our article's <a href="ska-ruins-karoo#funding-ska">funding</a> section.
                             </div>
                         </div>
                     </div>
