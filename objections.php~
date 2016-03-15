@@ -1,0 +1,19 @@
+<?php
+$PageTitle="Objections - savethekaroo";
+$MetaDescription="Objections to SKA South Africa from various parties";
+include('header.php');
+?>
+
+    
+<h1 class="page-header">Objections
+                    <small>Formal objections have been submitted to the Department of Science and Technology</small>
+                </h1>
+
+        
+<h2>Objections from Hantam Net, an internet provider</h2>
+        <p>
+	</p>
+
+<?php
+include('footer.php');
+?>
