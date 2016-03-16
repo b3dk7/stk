@@ -29,6 +29,10 @@ header.carousel {
     height: 50%;
 }
 
+h2{
+  padding-top: 50px;
+}
+
 header.carousel .item,
 header.carousel .item.active,
 header.carousel .carousel-inner {
