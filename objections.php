@@ -9,150 +9,142 @@ include('header.php');
                     <small>Formal objections have been submitted to the Department of Science and Technology</small>
                 </h1>
 
+          
+          
+          
+          
+<h2>Contents</h2>
+
+
+  <ul>
+    <li><a href="#aviation">Objections regarding restrictions on aviation, radio signals and the economic 
+impact</a></li>
+    <li><a href="#hantam">Objections from Hantam Net, an internet provider</a></li>
+    <!--<li><a href="#general">General Objections</a></li> -->
+  </ul>
+       
+          
+          
+          
+          
+                
+                
+<h2 id="aviation">Objections regarding restrictions on aviation, radio signals and the economic 
+impact           <small>     
+                
+raised at the meetings at 
+Vanwyksvlei and Carnarvon
+</small></h2>       
+               
+<address>
+<strong>19th & 20th January 2016</strong>
+</address>
+
+
+
+<h3>Background</h3>
+<p>During the original planning and building phases of the Meerkaat and later SKA as well as the Scoping report and Enviromental  Impact Assesment  phase the people of the area were brought under the impression that this project  would bring much needed work and resultant prosperity into the region.</p>
+
+<p>In fact the opposite is true. Due to the planned purchase of numerous farms in the area for this project, labour from these farms will now be out of work. This will have a further knock on effect on the economical side of this already impoverished area eg., loss of work, loss of income to the local abattoir due to  loss of stock for slaughtering resulting in a further loss of work.</p>
+
+<p>In addition to the above, the project has imported labour into the area, thus totally ignoring the people already in the area and only a handful from the area have actually been hired.</p>
+
+<p>During the scoping report and EIA, note has been made of historical issues have been investigated. I seriously doubt that this has been completed as thoroughly as it should have been. Historically the area had large game roaming there eg., gemsbok, eland and also elephant. In addition traces of Busman work has also been found in the mountainous and hill areas as well as the work of the previous so called "Trek Boers".  Proof of the above may be found on numerous stones in the area.</p>
+
+<p>
+  The scoping report as well as the EIA makes no mention that it also contacted the following departments in their work:-
+  <ol>
+  <li>South African Civil Aviation Authority</li>
+  <li>Air Traffic and Navigation Services</li>
+  <li>The local Carnarvon flying club</li>
+  <li>The Aero Club of South Africa</li>
+  <li>The Commercial Aviation Association of South Africa</li>
+  <li>ICASA</li>
+  </ol>
+</p>
+
+<p>The meetings at Kenhardt, Vanwyksvlei, Carnarvon and Williston in January 2016, specifically highlighted the restriction on the radio frequency spectrum from 100Mhz to 25.5Ghz.</p>
+
+<h3>Objections</h3>
+<ol>
+<li>The people in the region were brought under a false sense of prosperity by promises made in the Scoping and EIA reports as well as inflated prices for the purchase of the original farms.</li>
+<li>The result as set out under the background above regarding the loss of additional farms in the area will bring further hardship to the people of the area.</li>
+<li>The overlap of the radio spectrum over the Aviation radio spectrum  ie., 118Mhs to 136Mhz is totally unacceptable as this will affect commercial as well as private aviation in the area regarding safety, traffic separation etc. This issue is not negotiable at all under any circumstance.</li>
+<li>Reports of cell phone signals from certain of the remotely situated local is also disconcerting as their reception has also been adversely affected in both speech as well as data</li>
+<li>The core area is not properly defined. This adversely affects the so called no fly zone. This issue has also not been discussed inter alia with the Aero Club of South Africa or RAASA.</li>
+</ol>
+<h3>Conclusion</h3>
+The Meerkat and SKA project has been started under false pretences and the people in the region were given only limited information at the start of the project, giving them false hope and there has been a purposeful attempt from the beginning to withhold vital information that will affect Aviation radio and flight areas, SABC signals, Cell phone signals etc. </p>
+
+<p>
+  The South African government has not been honest with the public at large on this project and we, the interested and affect parties insist that the ministers following departments:-
+  <ol>
+  <li>Dept of Science and Technology</li>
+  <li>Dept of labour</li>
+  <li>Dept of Enviromental affairs</li>
+  <li>SKA</li>
+  <li>Cosatu</li>
+  </ol>
+
+  meet at  venues to be decided on before May 2016 to explain how they will assist the people in the area to regain the intended prosperity and upliftment. 
+
+</p>
+
+
+  
+                
+               
+                
+                
+                
+                
         
-<h2>Objections from Hantam Net, an internet provider</h2>
-We at HantamNet
-have always tried to make a positive impact on people around us
-and we have tried to make technology available to those who did not previously have
-the advantage of making use of high quality internet. We have, over the past almost
-16 years, built a wire
-less network f
-ro
-m scratch
-and through the years the
-network has
-grown very much
-¡V
-serving mostly
-the farmers and people in outl
-ying areas.
-We are currently supplying internet from Calvinia
-to Williston (in the town as well)
-and from there towards Carnarvon and Fraserburg; also to Brandvlei and Swarkop and
-the Swartkop community and to Kenhardt. We also supply internet to Middelpos and
-towards Sutherland. ALL farmers in this region as wel
-l as all towns will be affected
-if we need to switch off our network. Currently Brandvlei and Middelpos does not
-have ADSL and thus all businesses and members of the community who are using our
-internet to conduct business will also be affected. Most of
-our customers in these
-communities will not be able to afford the alternative offered.
-We have, in order to supply a high quality service, obtained a Telkom Fibre line at a
-cost of almost R30
-000 per month on a 5 year contract. If we are forced to take d
-own
-towers and stop supplying service to most of our customers we will still be bound in
-this contract.
-We have 8 permanent staff members who will also face loosing their
-jobs if we need to discontinue the service.
-Personally we have bonds on properties
-that needs to be paid monthly; without the
-income of HantamNet we will not be able to pay that.
-As a result of SKA¡¦s activities more than one of our customers have been bullied into
-obtaining VOX telecom¡¦s services. They were told that all our equipment
-would be
-switched off
-¡V
-which is true if the the proposed
-frequencies of between 100mhz and
-25.5Ghz will be upheld. Our equipment work on 2.4ghz and 5.8Ghz
-.
-As a result of Ritinitis Pigmentosa I lost my sight 20 years ago. As a blind person I
-was hit very
-hard and had to try and get my rightful place in life again. I do not have
-anything else to fall back on and would thus have to revert to the Department¡¦s
-promise that they would leave all affected parties in the same or better state they were
-in before
-SKA started.
-I do appreciate that SKA presents great opportunities to the scientific mind, but
-feel strongly that this does not
-warra
-nt the human sacrifices which would result.
-An area void of signals will leave an area void of communication and digita
-l media
-for all people here. Put yourselves in our shoes, wean yourselves from all
-communication means for just a few days
-¡V
-I guarantee that you would not feel
-content. All of us have become over dependant on internet
-and communication
-for survival, if
-that is taken away you will put people 40 years in the past.
-The alternative communication systems, satellite land line phones
-and internet
-restricted to the
-home, are slow and outdated by 2014
-and 2015. The Yaclick
-system was installed in 2015 and conside
-red outdated before it's installation.
-We
-are all used to have a choice of different cell phones and cordless telephones and
-we are used to being mobile while we speak
--
-we all do other things that require
-mobility while we have telephone conversations wit
-h family and friends. A lack of
-mobility will ¡§steal¡¨ time and productivity.
-The Yaclick solution
-¡V
-via satellite
--
-works out to be more expensive and customers of HantamNet who has both
-Yaclick and HantamNet claim that HantamNet¡¦s solution is better, fa
-ster and more
-reliable. Yaclick costs R160 for 2Gb data and HantamNet is charging R250 for
-5Gb data; Yaclick topups cost R160 for 2Gb and Hantam charges R30/GB.
-The future of the children of the Northern Cape is being totally ignored. A
-disadvantaged grou
-p is being created and our country will pay a high price in the
-long run.
-Children that grow up here will not be as technologically developed as
-children who grow up in areas where there are no limitations on technology. A
-disadvantaged group will result
-. Historically, there has been enough suffering and
-all unacceptable and unfair policies against SA citizens now and in the future,
-must be avoided.
-We have on several occasions tried to obtain more information on what is planned
-and how it was going to a
-ffect us and our business and we were told not to worry
-just yet. No business can do future planning not knowing what the future might
-bring, information is withheld and that is not fair towards us and the people living
-in this area. We are not labratory
-rats, we are human beings with constitutional
-rights!
-Since the discrepancy between the first map, and the second map which the
-Department of Science and technology presented to the public, is so enormous, it
-shows a lack of co
--
-ordination from various bod
-ies regarding the planning of the
-project.
-It seems that SKA is grabbing at straws, they have not done enough
-homework and impact studies
-¡V
-they have forgotten about things like the wireless
-signal that will have to be removed and that there are people on
-the other side of
-the SKA sights that will be disconnected from the technology that was previously
-available to them.
-SKA is willing to subsidise and help the people they classify as
-affected parties in the footprint of SKA, but these people are also aff
-ected and
-they are not compensated or considered.
-SKA programs have intimidated and traumatised those most
-affected. This is
-unacceptable.
-Thank you
-Jacques Dodd
-S
-ole
-proprietor
+<h2 id="hantam">Objections from Hantam Net, an internet provider</h2>
+
+
+  <address>
+    <strong>HantamNet</strong><br> 
+    PO Box 430<br>
+    Calvinia<br>
+    8190<br>
+    South Afrca<br>
+    Tel 027 341 2864<br>
+  </address>
+
+
+<p>We at HantamNet have always tried to make a positive impact on people around us and we have tried to make technology available to those who did not previously have the advantage of making use of high quality internet. We have, over the past almost 16 years, built a wireless network from scratch and through the years the network has grown very much - serving mostly the farmers and people in outlying areas.</p>
+
+<p>We are currently supplying internet from Calvinia to Williston (in the town as well) and from there towards Carnarvon and Fraserburg; also to Brandvlei and Swarkop and the Swartkop community and to Kenhardt. We also supply internet to Middelpos and towards Sutherland. ALL farmers in this region as well as all towns will be affected if we need to switch off our network. Currently Brandvlei and Middelpos does not have ADSL and thus all businesses and members of the community who are using our internet to conduct business will also be affected. Most of our customers in these communities will not be able to afford the alternative offered.</p>
+
+<p>We have, in order to supply a high quality service, obtained a Telkom Fibre line at a cost of almost R30000 per month on a 5 year contract. If we are forced to take down towers and stop supplying service to most of our customers we will still be bound in this contract. We have 8 permanent staff members who will also face loosing their jobs if we need to discontinue the service.</p>
+
+<p>Personally we have bonds on properties that needs to be paid monthly; without the income of HantamNet we will not be able to pay that.</p>
+
+<p>As a result of SKA's activities more than one of our customers have been bullied into obtaining VOX telecom's services. They were told that all our equipment would be switched off - which is true if the the proposed frequencies of between 100mhz and 25.5Ghz will be upheld. Our equipment work on 2.4ghz and 5.8Ghz.</p>
+
+<p>As a result of Ritinitis Pigmentosa I lost my sight 20 years ago. As a blind person I was hit very hard and had to try and get my rightful place in life again. I do not have anything else to fall back on and would thus have to revert to the Department's promise that they would leave all affected parties in the same or better state they were in before SKA started.</p>
+
+<p>I do appreciate that SKA presents great opportunities to the scientific mind, but feel strongly that this does not warrant the human sacrifices which would result. An area void of signals will leave an area void of communication and digital media for all people here. Put yourselves in our shoes, wean yourselves from all communication means for just a few days - I guarantee that you would not feel content. All of us have become over dependant on internetand communication for survival, if that is taken away you will put people 40 years in the past.</p>
+
+<p>The alternative communication systems, satellite land line phones and internet restricted to the home, are slow and outdated by 2014 and 2015. The Yaclick system was installed in 2015 and considered outdated before it's installation. We are all used to have a choice of different cell phones and cordless telephones and we are used to being mobile while we speak - we all do other things that require mobility while we have telephone conversations with family and friends. A lack of mobility will "steal" time and productivity. The Yaclick solution - via satellite - works out to be more expensive and customers of HantamNet who have both Yaclick and HantamNet claim that HantamNet's solution is better, faster and more reliable. Yaclick costs R160 for 2Gb data and HantamNet is charging R250 for 5Gb data; Yaclick topups cost R160 for 2Gb and Hantam charges R30/GB.</p>
+
+<p>The future of the children of the Northern Cape is being totally ignored. A disadvantaged group is being created and our country will pay a high price in the long run. Children that grow up here will not be as technologically developed as children who grow up in areas where there are no limitations on technology. A disadvantaged group will result. Historically, there has been enough suffering and all unacceptable and unfair policies against SA citizens now and in the future,must be avoided.</p>
+
+<p>We have on several occasions tried to obtain more information on what is planned and how it was going to affect us and our business and we were told not to worry just yet. No business can do future planning not knowing what the future might bring, information is withheld and that is not fair towards us and the people livingin this area. We are not labratory rats, we are human beings with constitutional rights!</p>
+
+<p>Since the discrepancy between the first map, and the second map which the Department of Science and technology presented to the public, is so enormous, its hows a lack of co-ordination from various bodies regarding the planning of the project. It seems that SKA is grabbing at straws, they have not done enough homework and impact studies - they have forgotten about things like the wireless signal that will have to be removed and that there are people on the other side of the SKA sights that will be disconnected from the technology that was previously available to them. SKA is willing to subsidise and help the people they classify as affected parties in the footprint of SKA, but these people are also affected and they are not compensated or considered.</p>
+
+<p>SKA programs have intimidated and traumatised those mostaffected. This isunacceptable.</p>
+<p>
+Thank you<br>
+Jacques Dodd<br>
+Sole proprietor<br>
 HantamNet
+</p>
 
 
-<h2>Objections regarding restrictions on aviation, radio signals and the economic impact</h2>
-
-<h2>General Objections</h2>
+<!--
+<h2 id="general">General Objections</h2>
 Carnarvon  16 February 2016       
 
                                                                           
@@ -388,6 +380,8 @@ Yours sincerely
  
 
 Susan Boehm
+
+-->
 
 
 <?php

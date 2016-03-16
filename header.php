@@ -59,6 +59,9 @@
                     <li>
                         <a href="karoo-stories">Karoo Stories</a>
                     </li>
+                    <li>
+                        <a href="objections">Objections</a>
+                    </li>
                     <li class="dropdown">
                         <a href="#" class="dropdown-toggle" data-toggle="dropdown">Galleries<b class="caret"></b></a>
                         <ul class="dropdown-menu">
