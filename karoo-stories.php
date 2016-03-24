@@ -11,6 +11,33 @@ include('header.php');
 
         
 <div itemscope itemtype="http://schema.org/Comment">
+  <h2 itemprop="headline" id="moos">Mr Moos's story</h2>
+  <span itemprop="text">
+
+<p>One cold and grey winter afternoon Mr Moos arrived on our farm with his meager possessions and his family piled on his donkey cart.   A large man with a black beard, looking for a place to outspan his animals, and stay overnight.    He had his wife, Meraai and two sons with him. A small compact family.</p><p>
+ 
+It so happened that at that time a set of extra hands were needed on the family farm. Soon an agreement was agreed upon and Mr Moos and his family moved into one of the workers' homes and settled down.  From then on this little  family became an integral part of all farm activities.</p><p>
+  
+ It was 1992.   Moos was a sturdy and stalwart young man, a reliable and trustworthy worker,  a leader and someone who was prepared to roll up his sleeves  without ever shying away from hard work or responsibility. A man who truly did his share, a man who lived and let live.</p><p>
+ 
+The years went by and Mr Moos grew older, but he remained the reliable and trusted member of the team, always setting an example.</p><p>
+ 
+In June 2011, his beloved eldest son suddenly died of natural causes. Shortly afterwards, his younger son was murdered.  . A part of Mr Moos died too. His reason for existing was taken away from him and the deep traces of  loss  left it's mark on him.   Traces of sorrow and pain were etched deeply around his mouth and eyes.   Then, a broken man, unable to battle on after these fateful blows, he decided to retire. The trusted man was given the rights to remain and live in his house on the farm for the rest of his days.  This was the most we could do to help him live out the rest of his life in peace.</p><p>
+ 
+The  Moos with whom one talks today is in some ways still the "old"  Moos, the person everybody is fond of and looks up to.  But he is  worn and tired. stooped and grey.  His eyes are dim  and without the old sparkle.  </p><p>
+ 
+One day he came,  with great difficulty, to ease himself down beside me where I sat on a big stone in the veld.  His eyes were rheumy and sad as he stared into the distance, and his thin lips tightly drawn. I thought  that something particular must be disturbing him.   His forehead was creased more than usual with frowning.   It had to be something important, something serious, because he had never been a man to complain or object about anything, or feel sorry for himself.</p><p>
+ 
+He sighed a few times and managed to speak up with a bitterness and a disappointment which I had not encountered from him before. "I hear", he said, "they will take our farm.  Strange things  made of tin will stand in our yard. What for?" He sighs. "I have to go too. All of us. What  will happen to us now?   Here is where I want to lay my head down when I take my last breath. Here is where my blood and my sweat lies. You were good to me, and we looked after each other.  We worked  together and we shared our happiness and our pain" His eyes filled with tears.  'But what is to happen to us now?"</p><p>
+ 
+ I do not have an answer for Moos.   I share his pain, I feel it deep down, and together we were overcome by raw emotion. The pain lingers everywhere, it will not go away, it swells and sways with the endless motion of the wind in the branches of the old weeping willow tree.</p>
+
+
+</span>
+</div>
+
+
+<div itemscope itemtype="http://schema.org/Comment">
   <h2 itemprop="headline">Our Inheritance</h2>
   <span id="authinfo">Written by <span itemprop="author">Mr. W</span>, <span itemprop="datePublished">2016-2</span></span>
   <span itemprop="text"><p>There is a "family stone" on the farm Swartfontein covered with signatures of family members who have been living and farming there for five generations. 
