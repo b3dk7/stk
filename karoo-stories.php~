@@ -4,37 +4,14 @@ $MetaDescription="South Africans share their stories on why they love the Karoo"
 include('header.php');
 ?>
 
-
-
-<div class="jumbotron">
-  <h1>Karoo Stories</h1>
-
-</div>
-
-
     
-
+<h1 class="page-header">Karoo Stories
+                    <small></small>
+                </h1>
 
         
-                <h2>Contents</h2>
-
-
-  <ul>
-    <li><a href="#moos">Mr Moos's story</a></li>
-    <li><a href="#inheritance">Our Inheritance</a></li>
-    <li><a href="#nommer">Nommer Asseblief</a></li>
-    <li><a href="#contribution">A valuable contribution to the national food basket</a></li>
-    <li><a href="#jan">Worker No. 2 - Jan's Story</a></li>
-    <li><a href="#william">William's Story</a></li>
-  </ul>
-                
-                
-                
-                
-                
 <div itemscope itemtype="http://schema.org/Comment">
   <h2 itemprop="headline" id="moos">Mr Moos's story</h2>
-  <span id="authinfo">Written by <span itemprop="author">Mr. L</span>, <span itemprop="datePublished">2016-3</span></span>
   <span itemprop="text">
 
 <p>One cold and grey winter afternoon Mr Moos arrived on our farm with his meager possessions and his family piled on his donkey cart.   A large man with a black beard, looking for a place to outspan his animals, and stay overnight.    He had his wife, Meraai and two sons with him. A small compact family.</p><p>
@@ -61,7 +38,7 @@ He sighed a few times and managed to speak up with a bitterness and a disappoint
 
 
 <div itemscope itemtype="http://schema.org/Comment">
-  <h2 itemprop="headline" id="inheritance">Our Inheritance</h2>
+  <h2 itemprop="headline">Our Inheritance</h2>
   <span id="authinfo">Written by <span itemprop="author">Mr. W</span>, <span itemprop="datePublished">2016-2</span></span>
   <span itemprop="text"><p>There is a "family stone" on the farm Swartfontein covered with signatures of family members who have been living and farming there for five generations. 
   </p><p>Stone masons James Wright and Cornelis de Waal were the artists responsible for these unique sandstone gravestones which are over a hundred years old, and are still in good condition. These gravestones are also to be seen on other farms in the district. It took Cornelis de Waal from 4 to 5 months to complete the inscriptions, flower patterns and decorations. He was paid from 5 to 7 pounds sterling to execute this work.</p>
@@ -76,7 +53,7 @@ He sighed a few times and managed to speak up with a bitterness and a disappoint
 
 
 <div itemscope itemtype="http://schema.org/Comment">
-  <h2 itemprop="headline" id="nommer">Nommer Asseblief</h2>
+  <h2 itemprop="headline">Nommer Asseblief</h2>
   <span id="authinfo">Written by <span itemprop="author">Mr. L</span>, <span itemprop="datePublished">2016-1</span></span>
   <span itemprop="text"><p>I grew up with the old "nommer asseblief' telephone system. The old bakelite telephone, with a crank handle on the side, was mounted on a wooden board and put on the wall. You and your neighbors shared the same line, and you had to be careful not to turn the handle if someone was already busy on the line. By today's standards primitive, but effective and satisfactory. The operators, and the technicians, were efficient and all was kept in good order.</p>
   <p>Those were the good old days. With the passage of time the system gradually deteriorated. Cables were either stolen or broke down. We were sometimes left for days without any contact with the outside world.</p>
@@ -91,7 +68,7 @@ He sighed a few times and managed to speak up with a bitterness and a disappoint
 
 
 <div itemscope itemtype="http://schema.org/Comment">
-  <h2 itemprop="headline" id="contribution">A valuable contribution to the national food basket</h2>
+  <h2 itemprop="headline">A valuable contribution to the national food basket</h2>
   <span id="authinfo">Written by <span itemprop="author">Mrs. M</span>, <span itemprop="datePublished">2016-1</span></span>
   <span itemprop="text">
     <p>About seven years ago, before SKA was well known, I was listening to "RSG", a South African radio program whilst doing my daily chores. The person on the program explained things about the chosen SKA site, and mentioned the farms, Losberg and Meysdam. The area, she explained, was a very quiet site and also surrounded by mountains, and therefore a well chosen position for the SKA project.</p> 
@@ -107,8 +84,8 @@ He sighed a few times and managed to speak up with a bitterness and a disappoint
 
 
 <div itemscope itemtype="http://schema.org/Comment">
-  <h2 itemprop="headline" id="jan">Worker No. 2 - Jan's Story</h2>
-  <span id="authinfo">Written by <span itemprop="author">Mr. L</span>, <span itemprop="datePublished">2016-3</span></span>
+  <h2 itemprop="headline" id="jan">Worker  No.  2 - Jan's Story</h2>
+
   <span itemprop="text">
 
  
@@ -135,7 +112,7 @@ He sighed a few times and managed to speak up with a bitterness and a disappoint
 
 <div itemscope itemtype="http://schema.org/Comment">
   <h2 itemprop="headline" id="william">William's Story</h2>
-  <span id="authinfo">Written by <span itemprop="author">Mr. L</span>, <span itemprop="datePublished">2016-3</span></span>
+
   <span itemprop="text">
 
  

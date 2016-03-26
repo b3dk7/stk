@@ -4,12 +4,11 @@ $MetaDescription="Providing a deeper look at the impact of South Africa's Square
 include('header.php');
 ?>
 
-<div class="jumbotron">
-  <h1>Save the Karoo</h1>
+    
 
-</div>
-
-
+<h1 class="page-header">Welcome to Save The Karoo
+                    <small></small>
+                </h1>
 
      
 

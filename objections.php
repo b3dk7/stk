@@ -3,11 +3,13 @@ $PageTitle="Objections - savethekaroo";
 $MetaDescription="Objections to SKA South Africa from various parties";
 include('header.php');
 ?>
+<div class="jumbotron">
+  <h1>Objections</h1>
+  <p>Formal objections have been submitted to the South African Department of Science and Technology</p>
 
+</div>
     
-<h1 class="page-header">Objections
-                    <small>Formal objections have been submitted to the Department of Science and Technology</small>
-                </h1>
+
 
           
           

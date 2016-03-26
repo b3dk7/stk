@@ -11,14 +11,7 @@ include('header.php');
         
 	    <div itemscope itemtype="http://schema.org/Article">
 	      <meta itemscope itemprop="mainEntityOfPage"  itemType="https://schema.org/WebPage" itemid="http://savethekaroo.com/ska-ruins-karoo"/>
-	      
-	      
-	      
-	      <div class="jumbotron">
-	      	<h1 itemprop="headline">SKA is ruining the Karoo's future</h1>
-
-	      </div>
-	      
+	      <h1 class="page-header" itemprop="headline">SKA is ruining the Karoo's future</h1>
 	      
 	      <span id="authinfo">Written by <span itemprop="author">savethekaroo group</span>, <span itemprop="datePublished">2016-02-23</span></span>
 

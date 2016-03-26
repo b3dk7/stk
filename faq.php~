@@ -3,10 +3,9 @@ $PageTitle="Frequently asked questions on SKA SA - savethekaroo";
 $MetaDescription="Frequently asked questions on how SKA South Africa is affecting the Karoo and its people";
 include('header.php');
 ?>
-                <div class="jumbotron">
-  <h1>FAQ</h1>
-
-</div>
+                <h1 class="page-header">FAQ
+                    <small></small>
+                </h1>
 
 
 
