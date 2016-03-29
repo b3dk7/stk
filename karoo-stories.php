@@ -54,7 +54,10 @@ One day he came, with great difficulty, to ease himself down beside me where I s
 He sighed a few times and managed to speak up with a bitterness and a disappointment which I had not encountered from him before. "I hear", he said, "they will take our farm. Strange things made of tin will stand in our yard. What for?" He sighs. "I have to go too. All of us. What will happen to us now? Here is where I want to lay my head down when I take my last breath. Here is where my blood and my sweat lies. You were good to me, and we looked after each other. We worked together and we shared our happiness and our pain" His eyes filled with tears. 'But what is to happen to us now?"</p><p>
  
  I do not have an answer for Moos. I share his pain, I feel it deep down, and together we were overcome by raw emotion. The pain lingers everywhere, it will not go away, it swells and sways with the endless motion of the wind in the branches of the old weeping willow tree.</p>
-</span>
+
+ <p>* All names have been changed to protect the people concerned.</p>
+ 
+ </span>
 </div>
 
 
@@ -79,6 +82,7 @@ He sighed a few times and managed to speak up with a bitterness and a disappoint
 </p><p>How does this situation comply with the South African governments program to alleviate poverty, and assure everyone of a decent future.
  
 </p><p>Are they able to answer all these questions and present us with a solution? We all hope so.</p>
+ <p>* All names have been changed to protect the people concerned.</p>
 </span>
 </div>
 
@@ -99,14 +103,26 @@ He sighed a few times and managed to speak up with a bitterness and a disappoint
 </p><p>After finishing matric he was determined to farm in spite of the fact that his father gave him the opportunity to study further. "Broaden your horizons, my son. Perhaps you will find some other direction which appeals to you more". These words made William more determined than ever to work and remain on the farm. This was where he wanted to be more than anywhere else. Here where God, nature and man worked together in unison - this alone made sense to him. The humble beginning on a small piece of ground, the sacrifices and the difficult times experienced - all these drew him closer to this way of life. All served to make of him a dedicated farmer,
  
 </p><p>After the death of his father William had enough experience to take the farm further forward. A dorper stud was established to improve the quality of the flocks. His knowledge of grazing practices was applied, and erosion was tackled. William intended to make a model farm of his birthright, His farming methods and business experience enabled him to buy more land. He now felt certain of the farming future of his descendants, and the fifth generation of his family was assured of their future. They would be able to continue the family tradition.
- 
+
 </p><p>Now it appears that after dedicating sixty two years of his life to building up his farming enterprise, he is told to leave. For always. His dreams and aspirations for the future of his children wiped out. His life's work come to nothing. A dreadful anticlimax to all his endeavors, an abrupt end to a full and busy life. All must be left behind. His dreams and his pride shattered.
 </p>
-
+ <p>* All names have been changed to protect the people concerned.</p>
  </span>
 </div>
 
+<div itemscope itemtype="http://schema.org/Comment">
+  <h2 itemprop="headline">A valuable contribution to the national food basket</h2>
+  <span id="authinfo">Written by <span itemprop="author">Mrs. M</span>, <span itemprop="datePublished">2016-1</span></span>
+  <span itemprop="text">
+    <p>About seven years ago, before SKA was well known, I was listening to "RSG", a South African radio program whilst doing my daily chores. The person on the program explained things about the chosen SKA site, and mentioned the farms, Losberg and Meysdam. The area, she explained, was a very quiet site and also surrounded by mountains, and therefore a well chosen position for the SKA project.</p> 
 
+    <p>She then justified the chosen site by adding that it was a place "beyond civilisation". This really upset and shocked me. I was furious, the audacity of belittling our area and our people like that! Why insult the inhabitants of the Kareeberg area? So many intellectuals and academics have emerged from the area, and well educated and informed people reside and lead great lives here. Our people are civilised, harmonise with each other, and are kind and goodhearted.</p>
+
+    <p>Consider the high standard of agricultural activities and the quality stock we produce despite harsh and challenging circumstances. How can an uncivilised area provide a much desired product of superior quality, which "civilised" people crave elsewhere. What about our contribution to the national food basket?</p>
+
+    <p>Apparently the person who spoke out of turn on the radio program, had wanted to imply that the area is isolated when she called it "beyond civilisation. What ever... the incident angered me and it has stayed with me to this day.</p>
+  </span>
+</div>
 
 
 <div itemscope itemtype="http://schema.org/Comment">
@@ -119,7 +135,9 @@ He sighed a few times and managed to speak up with a bitterness and a disappoint
  </p><p>All went well until May 2012. The cell phone signals were said to be interfering with <a href="http://public.ska.ac.za/kat-7">KAT-7</a> and they were summarily cut off. 
  </p><p>Radio telephones were still not available. We were now left to our own devices. At the end of 2013 Telkom stepped in and the Spacestream telephone system was installed. Fortunately for the last year and a half we have been free of trouble. 
  </p><p>In a nutshell, SKA never kept to their promise of 2007 to provide farmers with radio telephones. We are grateful to Telkom for their assistance. 
- </p><p>In "injury time" when SKA'S new program was made available to the public, the <a href="http://www.yahclick.co.za/ was introduced">VOX system</a>. This was during 2015 - eight years after the original promise was made.</p></span>
+ </p><p>During "injury-time" shortly before SKA's new land buy-out program became public knowledge, after rumours and much speculation had been circulating about SKA expansion, the <a href="http://www.yahclick.co.za/ was introduced">VOX-system</a> was hurridly introduced and installed. This was during 2015 - eight years after the original promise was made. Unbelievable!!
+
+</span>
 </div>
 
 
