@@ -111,7 +111,7 @@ He sighed a few times and managed to speak up with a bitterness and a disappoint
 </div>
 
 <div itemscope itemtype="http://schema.org/Comment">
-  <h2 itemprop="headline">A valuable contribution to the national food basket</h2>
+  <h2 itemprop="headline" id="contribution">A valuable contribution to the national food basket</h2>
   <span id="authinfo">Written by <span itemprop="author">Mrs. M</span>, <span itemprop="datePublished">2016-1</span></span>
   <span itemprop="text">
     <p>About seven years ago, before SKA was well known, I was listening to "RSG", a South African radio program whilst doing my daily chores. The person on the program explained things about the chosen SKA site, and mentioned the farms, Losberg and Meysdam. The area, she explained, was a very quiet site and also surrounded by mountains, and therefore a well chosen position for the SKA project.</p> 
