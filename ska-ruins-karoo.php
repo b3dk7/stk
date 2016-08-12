@@ -40,7 +40,7 @@ include('header.php');
 	    <p>Precious agricultural land is under threat and the stability of immediate communities could be irreversibly compromised forever. Why was such a productive area chosen for this project? There are many other areas in the Northern Cape with less vegetation, less agricultural activities and fewer people. There are areas with desert-like conditions where a far smaller amount of people will be affected. There are true deserts not far away.</p>
 	    <p>The current SKA site is not a desert, despite SKA claims of it being one. This information is misleading and perhaps intended to manipulate world opinion, hiding the high cost and discomfort inflicted upon so many inhabitants.</p>
 	    <p>  The people living in the Karoo would like to know how the SKA SA site was described in the bid application South Africa submitted in order to host the project. This might explain why the Karoo area was accepted as the chosen site, and why South Africa won the bid.</p>
-	    <p>SKA phase 1 consists of a core area and three long arm-like spiralling corridors leading out from the core, and has land requirements of 268 000 ha in total. SKA phases 2 and 3 allow for eight long arm-like spiralling corridors and cover 140 000 000 ha. in total! Surely a great deal of attention must be given to sites chosen for such developments.</p>
+	    <p>SKA phase 1 consists of a core area and three long arm-like spiralling corridors leading out from the core, and has land requirements of 268 000 ha in total. SKA phases 2 and 3 allow for eight long arm-like spiralling corridors. Surely a great deal of attention must be given to sites chosen for such developments.</p>
 	    <p>The impressive project will involve a massive amount of money. Roughly speaking, the international community is providing Euro 650 000 000 for scientific purposes related to SKA phase 1, and the South African government is providing the land, infrastructure and many other resources. If this project is to succeed, the chosen site for SKA phase 1 is of vital importance.</p>
 	    <h2>Contents</h2>
 
@@ -137,7 +137,7 @@ include('header.php');
 
 	    <h3>Big map</h3>
 
-	    <p>By 23 rd November 2015, the Department of Science and Technology published Government Gazette number 1166, as mentioned earlier. Here eight corridors spiralling from the above mentioned core area of 132 ,000 ha reach over the central Karoo area, and spreads out over 140 000 000 ha. The Department is preparing to pass legislation to protect further SKA phases as well. The central Karoo and most of the Northern Cape will be affected. And the Northern Cape covers 30,5 percent of South Africa's total land surface. A large area of land in which many people will be adversely affected.</p>
+	    <p>By 23 rd November 2015, the Department of Science and Technology published Government Gazette number 1166, as mentioned earlier. Here eight corridors spiralling from the above mentioned core area of 132 ,000 ha reach over the central Karoo area. The Department is preparing to pass legislation to protect further SKA phases as well. The central Karoo and most of the Northern Cape will be affected. And the Northern Cape covers 30,5 percent of South Africa's total land surface. A large area of land in which many people will be adversely affected.</p>
 
 	    <h2 id="not-enough-transparency">Not enough transparency</h2>
 
@@ -437,7 +437,7 @@ include('header.php');
 	    <ul>
 	      <li>Plans to rezone over 132 000 ha of productive agricultural land for scientific purposes, and thus hurt the local economies.</li>
 
-	      <li>Plans to expand across a further 140 000 000 ha and restricting activities in an agriculturally productive area.</li>
+	      <li>Plans to expand and restricting activities in an agriculturally productive area.</li>
 
 	      <li>What remains of the SKA project should a national or international recession prevent its completion?</li>
 
