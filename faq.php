@@ -61,7 +61,7 @@ include('header.php');
                         </div>
                         <div id="collapseFour" class="panel-collapse collapse">
                             <div class="panel-body" itemprop="acceptedAnswer">
-                                The AAA is 140 000 000 ha large. It covers the central Karoo area, and includes all the municipal areas of the Northern Cape excluding the Sol Plaatje municipality.
+                                The AAA is 14,000,000 ha large. It covers the central Karoo area, and includes all the municipal areas of the Northern Cape excluding the Sol Plaatje municipality.
                             </div>
                         </div>
                     </div>
