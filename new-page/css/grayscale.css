@@ -220,16 +220,24 @@ a:focus {
 .content-section {
   padding-top: 100px;
 }
-.download-section {
+.image-section {
   width: 100%;
   padding: 50px 0;
   color: white;
-  background: url(../img/downloads-bg.jpg) no-repeat center center scroll;
   background-color: black;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   background-size: cover;
   -o-background-size: cover;
+}
+
+.springbok-sectin{
+
+  background: url(../img/springbok.jpg) no-repeat center center scroll;
+}
+
+.road-section {
+  background: url(../img/downloads-bg.jpg) no-repeat center center scroll;
 }
 #map {
   width: 100%;
