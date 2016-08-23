@@ -246,9 +246,14 @@ a:focus {
   -o-background-size: cover;
 }
 
-.springbok-sectin{
+.springbok-section{
 
   background: url(../img/springbok.jpg) no-repeat center center scroll;
+}
+
+.satellite-section{
+
+  background: url(../img/karoo-satellite.jpg) no-repeat center center scroll;
 }
 
 .road-section {
