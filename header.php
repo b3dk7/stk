@@ -70,9 +70,7 @@
                     <li>
                         <a href="index">Home</a>
                     </li>
-                    <li>
-                        <a href="ska-ruins-karoo">Article</a>
-                    </li>
+
                     <li>
                         <a href="faq">FAQ</a>
                     </li>
