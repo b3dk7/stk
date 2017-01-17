@@ -38,7 +38,7 @@ include('header.php');
 	    <p>The "other side" of the project is less convincing. It is the Ecocide which will affect communities and the environment due to SKA phase 1. Construction of phase 1 is planned to start in 2018. Later, SKA phases 2 and 3 are planned to follow, finally reaching far into the African Continent. According to the Radio Quiet Zone Document, page 10, remote stations are proposed to be placed in Botswana, Ghana, Kenya, Madagascar, Mauritius, Mozambique, Namibia and Zambia. The RQZ document goes on to state that these African countries have "basic law", implying  that enforcing a radio quiet zone would be possible</p>
 	    <p>The current SKA site in the Karoo consists of two farms (Losberg and Meysdam) and covers 13,406 ha. Here
  pathfinder and precursor radio telescope dishes have been erected. The Kat-7 project, a test bed of seven dishes, was completed several years ago. The MeerKAT project of 64 dishes, a technology demonstrator for South Africa's bid to host the Square Kilometer Array is still under construction and will form part of SKA phase 1.</p>
- <img src="img/kat7.jpg" alt="Kat7">
+ <img class="img-responsive" src="img/kat7.jpg" alt="Kat7">
 	
  
         <p> South Africa and Australia jointly won the bid in 2012 and are the official hosts, but South Africa will host the majority share. The South African SKA foundation is currently negotiating to buy more land (about 118 000 ha / or + - 36 farms) around the initial site, to create a larger core area of about 130 000 ha.</p>
@@ -49,7 +49,7 @@ include('header.php');
 	    <p>SKA phase 1 will be largely funded by the SKA International Partner States. These financial contributors are  the United Kingdom, Canada, Sweden, Italy, The Netherlands, Australia, New Zealand, India and China. The SKA Organisation is a private company incorporated and has its head office in the United Kingdom. In addition there are several non-member States which benefit by receiving research data, such as Universities and the Max Planck Institution in Germany. The USA has part of its HERA project on the South African SKA core site. Further non-member states include France, Japan, Malta, Portugal, Spain and Switzerland. www.skatelescope.org</p>
 	    
 	    
-	    <img src="img/hera.jpg" alt="Hera">
+	    <img class="img-responsive" src="img/hera.jpg" alt="Hera">
 	    
 	    
 	    <h2>Contents</h2>
