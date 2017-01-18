@@ -11,14 +11,21 @@
 
     <title><?= isset($PageTitle) ? $PageTitle : "Save The Karoo"?></title>
 
+    
+    
+    
+    
     <!-- Bootstrap Core CSS -->
     <link href="css/bootstrap.min.css" rel="stylesheet">
 
-    <!-- Custom CSS -->
-    <link href="css/modern-business.css" rel="stylesheet">
+    
 
     <!-- Custom Fonts -->
     <link href="font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
+    
+    <!-- Custom CSS -->
+    <link href="css/modern-business.css" rel="stylesheet">
+    
 
     <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
     <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
@@ -62,26 +69,18 @@
                     <span class="icon-bar"></span>
                     <span class="icon-bar"></span>
                 </button>
-                <a class="navbar-brand" href="index">Save The Karoo</a>
+                <a class="navbar-brand" id=navcustom href="index">Save The Karoo</a>
             </div>
             <!-- Collect the nav links, forms, and other content for toggling -->
-            <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+            <div class="collapse navbar-collapse navcustom" id="bs-example-navbar-collapse-1">
                 <ul class="nav navbar-nav navbar-right">
                     <li>
-                        <a href="index">Home</a>
+                        <a href="index" id=navcustom>Home</a>
                     </li>
 
-                    <li>
-                        <a href="faq">FAQ</a>
-                    </li>
-                    <li>
-                        <a href="karoo-stories">Karoo Stories</a>
-                    </li>
-                    <li>
-                        <a href="objections">Objections</a>
-                    </li>
+                    
                     <li class="dropdown">
-                        <a href="#" class="dropdown-toggle" data-toggle="dropdown">Galleries<b class="caret"></b></a>
+                        <a href="#" class="dropdown-toggle" id=navcustom data-toggle="dropdown">Galleries<b class="caret"></b></a>
                         <ul class="dropdown-menu">
                             <li>
                                 <a href="fauna">Fauna</a>
@@ -99,7 +98,7 @@
                         </ul>
                     </li>
                     <li>
-                        <a href="contact">Contact</a>
+                        <a href="contact" id=navcustom>Contact</a>
                     </li>
                     
                     

@@ -25,6 +25,8 @@ body {
     margin-bottom: 30px;
 }
 
+
+
 .img-hover:hover {
     opacity: 0.8;
 }
@@ -100,4 +102,19 @@ footer {
     header.carousel .carousel {
         height: 70%;
     }
+}
+
+
+
+
+/*!
+ * navbar stuf
+ */
+
+#navcustom{
+  color: white;
+}
+
+a#navcustom:hover {
+    background-color: gray;
 }

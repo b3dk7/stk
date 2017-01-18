@@ -52,6 +52,12 @@ include('header.php');
                 </a>
             </div>
             <div class="col-md-4 col-sm-6">
+                <a href="img/mixed/karoo-dam.jpg">
+                    <img class="img-responsive img-portfolio img-hover" src="img/mixed/karoo-sunset.jpg" alt="">
+                </a>
+            </div>
+            
+            <div class="col-md-4 col-sm-6">
                 <a href="img/mixed/karoo-veld.jpg">
                     <img class="img-responsive img-portfolio img-hover" src="img/mixed/karoo-veld.jpg" alt="">
                 </a>
