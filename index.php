@@ -88,14 +88,14 @@ include('header.php');
         
         <h3>Aviation</h3>
 
-        <p>Radio frequency restrictions and aviation laws are obviously contradictory concepts. Almost all flight to and from Cape Town have always flown over the Northern Cape as Cape Town is geographically at the southern tip of Africa. Therefore the Karoo was never a radio quiet area. Obviously the availability of radio frequencies are paramount to aviation safety with regard to radar, navigation and radio communications. These rights were stipulated in the Chicago Convention of 1944 and most nations are signatory to this agreement. Should many flights to and from Cape Town be re-routed to protect astronomy within the Karoo? How much will this cost travelers? How would this affect the carbon footprint of air travel? Many SKA articles suggest that the Karoo and Karoo towns are "beautifully radio quiet and ideal for radio astronomy". This is not so, many national and international flights routes go over the Central Karoo area and the Northern Cape. Besides most rural towns have an airstrip, indicating recreational aviation and emergencies services. <a href=http://www.sahistory.org.za/dated-event/first-radio-licence-sa-issued-dr-j-van-rensburg-carnarvon>Carnarvon was never radio quiet...</a><p> 
+        <p>Radio frequency restrictions and aviation laws are obviously contradictory concepts. Almost all flight to and from Cape Town have always flown over the Northern Cape as Cape Town is geographically at the southern tip of Africa. Therefore the Karoo was never a radio quiet area. Obviously the availability of radio frequencies are paramount to aviation safety with regard to radar, navigation and radio communications. These rights were stipulated in the <a href=Documents/Chicago-Protocol.pdf>Chicago Convention of 1944</a> and most nations are signatory to this agreement. Should many flights to and from Cape Town be re-routed to protect astronomy within the Karoo? How much will this cost travelers? How would this affect the carbon footprint of air travel? Many SKA articles suggest that the Karoo and Karoo towns are "beautifully radio quiet and ideal for radio astronomy". This is not so, many national and international flights routes go over the Central Karoo area and the Northern Cape. Besides most rural towns have an airstrip, indicating recreational aviation and emergencies services. <a href=http://www.sahistory.org.za/dated-event/first-radio-licence-sa-issued-dr-j-van-rensburg-carnarvon>Carnarvon was never radio quiet...</a><p> 
 
         <h3>Communication</h3>
 
         <p>The AGA Act no 21 of 2007, was drafted to allow for an Astronomically Advantaged Area (AAA) where legislation prohibits the frequencies allowing cellphone signals. Admittedly cellphone communication vastly improved since 2007. By 2015 when SKA phase 1 was presented to the public, mobile technology had already changed the world. Smartphones are a way of life today. It is unthinkable to sacrifice the freedoms, safety, business opportunities and access to information afforded by mobile hand-held devices. Should cellphone signals be cut off due to legislation people affected by SKA phase 1 will be left with weather-sensitive satellite land-line connections and wifi within their homes. A "souped-up" walkie-talkie with a vastly limited sms function and without internet connection has been offered to stakeholders by SKA, but nobody is excited about this option. Cellphones remain the chosen and only means of communication for most in the affected area.</p>
         <figure class="figure">
         <img class="img-responsive" src="img/AAA-area.png" alt="AAA area">
-	<figcaption class="figure-caption text-right">The Astronomically Advantaged Area (AAA)</figcaption>
+	<figcaption class="figure-caption text-right">The Central Karoo Astronomically Advantaged Area (AAA)</figcaption>
 	</figure>
   
         <h2 id="CSIR">CSIR</h2>
@@ -115,10 +115,24 @@ include('header.php');
 
 
 	
+	<p>
+         	   	 <figure class="figure">
+        <img class="img-responsive" src="img/karoo-lamb2.jpg" alt="south african karoo lamb">
+	
 	</figure>
+	</p>
          <p> Farm workers will not find new employment easily as unemployment figures are around 32 % in the area. Alternative job opportunities are not being created. There are no government incentive programs to attract new business opportunities to the area.</p> 
 
-	     <p>Abattoirs, fuel suppliers, agricultural co-operatives, hardware stores, supermarkets, banks, tradesmen, construction and engineering services will all lose customers. Suppliers of veterinarian products, solar power and pumps, irrigation and water systems, fencing and general farm equipment will drop sales. Remote monitoring equipment used to track stock, read water levels, ensure safety of people and animals and prevent stock theft will suffer a decline in sales. Meat agents, marketing-, transport- and packing companies, retailers, the hospitality industry and finally ordinary consumers will be affected nationally. Reduction in turnover affect sales in commodities, insurances, recreation, travel and assets investment. Fewer transactions result in a decline of sales tax each time money changes hands, and reduced income taxes. These "add-ons" annually result in hundreds of millions of rand. It is highly unlikely that any scientific project could replace such amounts to the growing economy of South Africa.</p>
+	     <p>Abattoirs, fuel suppliers, agricultural co-operatives, hardware stores, supermarkets, banks, tradesmen, construction and engineering services will all lose customers. Suppliers of veterinarian products, solar power and pumps, irrigation and water systems, fencing and general farm equipment will drop sales. Remote monitoring equipment used to track stock, read water levels, ensure safety of people and animals and prevent stock theft will suffer a decline in sales. Meat agents, marketing-, transport- and packing companies, retailers, the hospitality industry and finally ordinary consumers will be affected nationally. The highly respected and famous brand, "Karoo, Meat of Origin", with export credentials to many parts of the world including Europe and Switzerland will deal with a loss in suppliers.</p>  
+	<p>
+	  <figure class="figure">
+	    <img class="img-responsive" src="img/karoo-meat-of-origin.jpg" alt="Karoo meat of origin display in a shop">
+	    <figcaption class="figure-caption text-right">Karoo meat of origin display at a supermarket in Cape Town</figcaption>
+	  </figure>
+	</p>
+	     
+	     
+	     <p>Reduced turnovers affect sales nationally in commodities, insurances, recreation, travel and assets investment. Fewer transactions result in a decline of sales tax each time money changes hands, and reduced income taxes. These "add-ons" annually result in hundreds of millions of rand. It is highly unlikely that any scientific project could replace such amounts to the growing economy of South Africa.</p>
 
          <p>Towns and businesses might decline and shrink. Displacement of people may result. More and more employees may land on the street if a downward trend is started. Typically, financially weaker members of society might be disadvantaged the most. Local families who lost ownership of property under the previous regime have not recovered losses or enjoyed compensation to date. Now these communities face more disadvantages. The town called Van Wyksvlei suffered a blow when a weaponry testing site called Alkantpan bought out farms (85 000 ha) in the district in 1987. The town was greatly reduced and impoverished. This is an explicit example of what Karoo communities are exposed to once farms are forced out of production. The inhabitants in the Karoo are completely reliant on agriculture for their well being and survival. Alkantpan and SKA ground are very close together and this area cannot take another punch to its economy. Alkantpan brought Van Wyksvlei to its knees, how much more can it take? <a href=http://www.defenceweb.co.za/index.php?option=com_content&view=article&id=45559:sixty-percent-plus-of-alkantpans-inco>At Alkantpan, foreign clients benefit  while locals suffer</a>.</p> 
 
