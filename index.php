@@ -30,10 +30,21 @@ include('header.php');
 	      <span itemprop="text">
 	    <p id="sm">Please support us by signing our <a href="http://www.thepetitionsite.com/en-ca/takeaction/984/402/144/"> care2 online petition</a>. Thank you.
 
-            <h3>Welcome to Save The Karoo's website.</h3>
+            <h2>Welcome to Save The Karoo's website.</h2>
             <p>The aim of this site is to share experiences and concerns of Karoo inhabitants due to the Square Kilometer Array project in South Africa. The beautiful Karoo and the life it sustains is under threat. If we do not act now it will be too late to protect this unique part of our planet. Construction of a "phase 1" is already planned to commence in 2018.</p>
-               
+	    <br>
+	    <p>
+	    <b>press: </b> 
+	    <a href="http://www.economist.com/news/middle-east-and-africa/21713855-radio-telescope-project-encounters-nimbyism-remote-part-south">
+	      <img alt="economist logo" src="img/economist-logo.png">
+	    </a>
+	    
 
+
+	    
+	    
+	    
+	    
 	    <h2>Some Background Information</h2>
 
 	    <p>Many South Africans have been keen and excited about the radio astronomy, Square Kilometer Array (SKA) project. Marketing strategies and the <a href="http://www.ska.ac.za/">SKA website</a> present a convincing and impressive picture of SKA South Africa. There is no need to argue the scientific merits of the project.</p>
