@@ -94,6 +94,9 @@
                             <li>
                                 <a href="rain">Rain</a>
                             </li>
+                            <li>
+                                <a href="damaged-ground">Damaged ground</a>
+                            </li>
                             
                         </ul>
                     </li>
