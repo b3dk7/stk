@@ -113,7 +113,8 @@ include('header.php');
 
 	    <p>The Council for Scientific and Industrial Research (CSIR) commissioned several experts to perform a <a href=https://www.ska.ac.za/about/strategic-environmental-assessment/>Strategic Environmental Assessment (SEA)</a> within the area affected by SKA phase 1. <a href=http://www.skaphase1.csir.co.za/?page_id=984>Research was collected on economic, social, environmental and heritage and cultural issues</a>. This study ran throughout most of 2016 and the <a href=http://www.skaphase1.csir.co.za/wp-content/uploads/2015/03/SKA-IEMP-2016-1.pdf>report</a> was published on January 30th 2017.</p>
 
-     
+     <p>Stakeholders, interested and affected parties may <a href=http://www.skaphase1.csir.co.za/?page_id=175>register on the CSIR website</a> and also <a href=Documents/comments-and-inputs-form.pdf>comment, object or question</a> the <a href=http://www.skaphase1.csir.co.za/wp-content/uploads/2015/03/SKA-IEMP-2016-1.pdf>CSIR's Integrated Environmental Management Plan</a>.
+     </p>
 
         <p>The CSIR website stated in November 2016 that its board members were appointed by the Minister of the Department of Science and Technology from 2015 through 2018. These dates co-inside with the initial announcement of the land acquisition for SKA phase 1 and the intended start of construction for SKA phase 1. This has raised questions about a possible conflict of interests. Despite this concern the report and specialist studies clearly warn that the impact of SKA will disintegrate communities, hurt the local and national economies and perhaps result in a destructive down spiral for SKA and the local population due to public resistance.</p>
 
