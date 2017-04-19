@@ -40,12 +40,61 @@ include('header.php');
 	    </a>
 	    
 
-
+	    <h2 id="SKA-SA-water-requirements">SKA phase 1 water requirement</h2>
+	    <p>
+	    According to the <a href=Documents/SKA-IEMP-2016-1.pdf>CSIR Integrated Management Plan</a> water requirements during peak construction of SKA phase 1 will be an astonishing 943 kilolitres per day. This is 10 to 20 times more than the average agricultural daily water requirement in the surrounding area, depending on the season, on comparable sized land. The Central Karoo is a semi-desert, and a fragile balance exists between the level of the water table and the sustainability of life, flora and fauna. The table below is found in the CSIR's Draft Integrated Management Plan, chapter two under point seven, "Water Use". </p>
+	    
+	    <table border=1>
+	      <caption>Maximum daily Water Demand for the construction phase of SKA1_MID</caption>
+				<thead>
+					<tr>
+						<th>Location/Activity</th>
+						<th>Maximum daily demand in kilolitres</th>
+					</tr>
+				</thead>
+				<tbody>
+					<tr>
+						<td>SKA site complex</td>
+						<td>10</td>
+					</tr>
+					<tr>
+						<td>Meysdam Farmhouse</td>
+						<td>3</td>
+					</tr>
+					<tr>
+						<td>Losberg Camp</td>
+						<td>65</td>
+					</tr>
+					<tr>
+						<td>Swartfontein Camp</td>
+						<td>20</td>
+					</tr>
+					<tr>
+						<td>Bergsig Camp</td>
+						<td>20</td>
+					</tr>
+					<tr>
+						<td>Road construction and road maintenance</td>
+						<td>120</td>
+					</tr>
+					<tr>
+						<td>Concrete Works</td>
+						<td>485</td>
+					</tr>
+					<tr>
+						<td>Construction Dust Control</td>
+						<td>100</td>
+					</tr>
+					<tr>
+						<td>Road Maintenance</td>
+						<td>120</td>
+					</tr>
+				</tbody>
+			</table>
 	    
 	    
 	    
-	    
-	    <h2>Some Background Information</h2>
+	    <h2>Some Background Information about SKA South Africa</h2>
 
 	    <p>Many South Africans have been keen and excited about the radio astronomy, Square Kilometer Array (SKA) project. SKA marketing strategies and the <a href="http://www.ska.ac.za/">SKA website</a> present a convincing and impressive picture of SKA South Africa. There is no need to argue the scientific merits of the project.</p>
 	    <p>The "other side" of the project is less convincing. It is the SocioEconomic impact and the Ecocide which will affect communities and the environment due to SKA phase 1, and the later phase 2. Construction of phase 1 is planned to start soon. Later SKA phases 2 is planned to reach far into the African Continent. According to the <a href=Documents/79_Report_of_The_Expert_Panel_on_Radio_Quiet_Zone_and_RFI_Regulation.pdf>Radio Quiet Zone Document</a>, page 10, remote stations are proposed to be placed in Botswana, Ghana, Kenya, Madagascar, Mauritius, Mozambique, Namibia and Zambia. The RQZ document goes on to state that these African countries have "basic law", implying  that enforcing a RQZ or radio protected zones would be possible.</p>
@@ -66,7 +115,7 @@ include('header.php');
 	
         <p>A person who contravenes the restrictions will face a fine of up to R 1 000 000 (one million rand) or imprisonment, or both according to a warning issued by Government Gazette. Within South Africa one million Rand would represent a challenging amount for an average person. Currently an ordinary loaf of bread in South Africa cost from under R10 and may go up up to R15 depending on the type of bread, a litre of petrol sells for approximately R 13, while aviation fuel (Avgas) sells at just over R20 a litre.</p>
         
-        <p>The above mentioned core area and corridors (SKA phase 1) are situated in a semi-desert called the Karoo. The Karoo makes up most of the Northern Cape Province and this province covers 30 % of South Africa's total land surface. Here sheep farming upholds the economy. Agricultural land is therefore under discussion and the stability of 3 municipalities with 46 000 inhabitants is questioned. <a href=https://www.karoomeatoforigin.com/>Karoo, Meat of Origin</a>, a well-known organic lamb label with impressive export credentials, is proudly produced in the area. Arguably it is of the best meat in the world. SKA has already bought huge tracks of land in and around the intended core area, without waiting for the Council of Scientific and Industrial Research (CSIR) to first conclude an investigation and publish the its report. This report was  published on 31 January 2017., and it clearly warns that the SKA phase 1 will impact negatively on the affected area and that SKA's current plans will cause the communities to disintegrate. The <a href=http://www.skaphase1.csir.co.za/wp-content/uploads/2015/03/SKA-IEMP-2016-1.pdf>report (Integrated Environmental Management Plan for the South African mid-frequency array of SKA Phase 1)</a> suggests that alternatives must be looked at to prevent disintegration of the affected communities. <a href=Documents/comments-and-inputs-form.pdf>Comments from the public may be submitted</a> by the 17 of March 2017. The <a href=mailto:skaphase1@csir.co.za>CSIR may be contacted and comments submitted via email at skaphase1@csir.co.za</a>, via post "PO Box 320, 7600, Stellenbosch, or via telephone nationally at 021 88 82429, or internationally +27 21 88 82429.</p>
+        <p>The above mentioned core area and corridors (SKA phase 1) are situated in a semi-desert called the Karoo. The Karoo makes up most of the Northern Cape Province and this province covers 30 % of South Africa's total land surface. Here sheep farming upholds the economy. Agricultural land is therefore under discussion and the stability of 3 municipalities with 46 000 inhabitants is questioned. <a href=https://www.karoomeatoforigin.com/>Karoo, Meat of Origin</a>, a well-known organic lamb label with impressive export credentials, is proudly produced in the area. Arguably it is of the best meat in the world. SKA has already bought huge tracks of land in and around the intended core area, without waiting for the Council of Scientific and Industrial Research (CSIR) to first conclude an investigation and publish the its report. This report was  published on 31 January 2017., and it clearly warns that the SKA phase 1 will impact negatively on the affected area and that SKA's current plans will cause the communities to disintegrate. The <a href=Documents/SKA-IEMP-2016-1.pdf>report (Integrated Environmental Management Plan for the South African mid-frequency array of SKA Phase 1)</a> suggests that alternatives must be looked at to prevent disintegration of the affected communities. <a href=Documents/comments-and-inputs-form.pdf>Comments from the public may be submitted</a> by the 17 of March 2017. The <a href=mailto:skaphase1@csir.co.za>CSIR may be contacted and comments submitted via email at skaphase1@csir.co.za</a>, via post "PO Box 320, 7600, Stellenbosch, or via telephone nationally at 021 88 82429, or internationally +27 21 88 82429.</p>
         <p>In the document published in 2005, <a href=Documents/26437_73_RITaskForce.pdf>"SKA Task Force on Regulatory Issues, November 2005"</a>,  International experts recommend how to  implement the SKA project. On page 7 is stated "...a  radio-quiet  zone  (RQZ) is  necessary..." and on page 8, "Typical sectors that may be affected would be communications (both regulation  and communications infrastructure),land affairs, environmental  affairs, civil aviation  and  mineral  affairs. There  may be further impact at the state or provincial level in terms of roads, distribution networks of electrical power and other public services." These experts do not mention human rights, ecocide or the social and economic impact. Recently a SKA official stated that the term "radio protected" would be more accurate than the term "radio silent". However, more information has been requested.</p>
 	    <p>SKA phase 1 will be largely funded by the SKA International Partner States. An amount of Euro 650 million has been mentioned for the first phase. These financial contributors are  the United Kingdom, Canada, Sweden, Italy, The Netherlands, Australia, New Zealand, India and China, according to the SKA official website. The SKA Organisation is a private company incorporated and has its <a href=https://www.skatelescope.org/ska-organisation/>head office in the United Kingdom</a> (The SKA Organisation, SKAO, is responsible for coordinating the global activities of the SKA project. This includes engineering, science, site evaluation, operations and public outreach. While the latter point, public outreach, has not occured at all.) In addition there are several non-member States which benefit by receiving research data, such as Universities and the Max Planck Institution in Germany. The USA has part of its HERA project on the South African SKA core site. Further non-member states include France, Japan, Malta, Portugal, Spain and Switzerland. The "Save the Karoo" team has made concerted efforts to contact the Interantional member States but has not received reaction of note."</p>
 	    
@@ -111,9 +160,9 @@ include('header.php');
   
         <h2 id="council-for-scientific-and-industrial-research-(CSIR)">CSIR</h2>
 
-	    <p>The Council for Scientific and Industrial Research (CSIR) commissioned several experts to perform a <a href=https://www.ska.ac.za/about/strategic-environmental-assessment/>Strategic Environmental Assessment (SEA)</a> within the area affected by SKA phase 1. <a href=http://www.skaphase1.csir.co.za/?page_id=984>Research was collected on economic, social, environmental and heritage and cultural issues</a>. This study ran throughout most of 2016 and the <a href=http://www.skaphase1.csir.co.za/wp-content/uploads/2015/03/SKA-IEMP-2016-1.pdf>report</a> was published on January 30th 2017.</p>
+	    <p>The Council for Scientific and Industrial Research (CSIR) commissioned several experts to perform a <a href=https://www.ska.ac.za/about/strategic-environmental-assessment/>Strategic Environmental Assessment (SEA)</a> within the area affected by SKA phase 1. <a href=http://www.skaphase1.csir.co.za/?page_id=984>Research was collected on economic, social, environmental and heritage and cultural issues</a>. This study ran throughout most of 2016 and the <a href=Documents/SKA-IEMP-2016-1.pdf>report</a> was published on January 30th 2017.</p>
 
-     <p>Stakeholders, interested and affected parties may <a href=http://www.skaphase1.csir.co.za/?page_id=175>register on the CSIR website</a> and also <a href=Documents/comments-and-inputs-form.pdf>comment, object or question</a> the <a href=http://www.skaphase1.csir.co.za/wp-content/uploads/2015/03/SKA-IEMP-2016-1.pdf>CSIR's Integrated Environmental Management Plan</a>.
+     <p>Stakeholders, interested and affected parties may <a href=http://www.skaphase1.csir.co.za/?page_id=175>register on the CSIR website</a> and also <a href=Documents/comments-and-inputs-form.pdf>comment, object or question</a> the <a href=Documents/SKA-IEMP-2016-1.pdf>CSIR's Integrated Environmental Management Plan</a>.
      </p>
 
         <p>The CSIR website stated in November 2016 that its board members were appointed by the Minister of the Department of Science and Technology from 2015 through 2018. These dates co-inside with the initial announcement of the land acquisition for SKA phase 1 and the intended start of construction for SKA phase 1. This has raised questions about a possible conflict of interests. Despite this concern the report and specialist studies clearly warn that the impact of the current SKA plan  will disintegrate communities, hurt the local and national economies and at worse result in a destructive downward spiral for SKA and the local population due to public resistance.</p>
@@ -121,7 +170,7 @@ include('header.php');
 
 	     <h2 id="economic-impact">Economic Impact</h2>
 
-	   	 <p>The <a href=http://www.skaphase1.csir.co.za/wp-content/uploads/2017/01/Agriculture-Economic-Study.pdf>CSIR's Agricultural Economic Study</a> has presented a very conservative view and calculated according to lamb prices in early 2016. The price paid for lamb has increased considerably since early 2016. About 15 000 to 16 000 lambs and 7000 adult sheep are annually marketed on the farms SKA intends for its core area of phase 1. Save The Karoo puts the annual loss at 20 to 30 million and this certainly will impact hard on the local communities. (The figure in the report is somewhat lower but this could be due to price fluctuations on the meat market over the last year). Abattoirs will be affected and the profitability of these companies will not be sustainable, as they would drop about 10% in slaughter volumes. One may consider that a minimum monthly wage of about R 3 500, is being debated in South Africa. This puts the loss of 20 to 30 million into perspective. Lamb and mutton is not the only source of income in this area. Stud farming, wool and feed-lots also generate capital.</p>
+	   	 <p>The <a href=Documents/Agriculture-Economic-Study.pdf>CSIR's Agricultural Economic Study</a> has presented a very conservative view and calculated according to lamb prices in early 2016. The price paid for lamb has increased considerably since early 2016. About 15 000 to 16 000 lambs and 7000 adult sheep are annually marketed on the farms SKA intends for its core area of phase 1. Save The Karoo puts the annual loss at 20 to 30 million and this certainly will impact hard on the local communities. (The figure in the report is somewhat lower but this could be due to price fluctuations on the meat market over the last year). Abattoirs will be affected and the profitability of these companies will not be sustainable, as they would drop about 10% in slaughter volumes. One may consider that a minimum monthly wage of about R 3 500, is being debated in South Africa. This puts the loss of 20 to 30 million into perspective. Lamb and mutton is not the only source of income in this area. Stud farming, wool and feed-lots also generate capital.</p>
 	   	 
 
 
@@ -145,7 +194,7 @@ include('header.php');
          <h3>National Economy</h3>
 	     
 	     
-	     <p>Reduced turnovers affect sales nationally in commodities, insurances, recreation, travel and assets investment. Fewer transactions result in a decline of sales tax each time money changes hands, and reduced income taxes. These "add-ons" show that a loss of 18 million rand in farming activity will translate to a decline in the South African GDP equivalent to R 263 million. It is highly unlikely that any scientific project could replace such amounts to the affected area or to the growing economy of South Africa. It is not fair to refer to the Karoo as a low-income, uninhabited and impoverished area, as sadly there are many poorer areas within South Africa despite higher population densities. The argument based on poverty in the Karoo has been used to justify taking agricultural land and using it for scientific purposes. Sadly this decision will cause much greater poverty in the Karoo. <a href=http://www.skaphase1.csir.co.za/wp-content/uploads/2017/01/Agriculture-Economic-Study.pdf>The economic report</a> also makes it clear that the SKA project cannot compensate for these financial losses.</p>
+	     <p>Reduced turnovers affect sales nationally in commodities, insurances, recreation, travel and assets investment. Fewer transactions result in a decline of sales tax each time money changes hands, and reduced income taxes. These "add-ons" show that a loss of 18 million rand in farming activity will translate to a decline in the South African GDP equivalent to R 263 million. It is highly unlikely that any scientific project could replace such amounts to the affected area or to the growing economy of South Africa. It is not fair to refer to the Karoo as a low-income, uninhabited and impoverished area, as sadly there are many poorer areas within South Africa despite higher population densities. The argument based on poverty in the Karoo has been used to justify taking agricultural land and using it for scientific purposes. Sadly this decision will cause much greater poverty in the Karoo. <a href=Documents/Agriculture-Economic-Study.pdf>The economic report</a> also makes it clear that the SKA project cannot compensate for these financial losses.</p>
 
          <p>Towns and businesses might decline and shrink. Displacement of people may result. More and more employees may land on the street if a downward trend is started. Typically, financially weaker members of society might be disadvantaged the most. Local families who lost ownership of property under the previous regime have not recovered losses or enjoyed compensation to date. Now these communities face more disadvantages. The town called Van Wyksvlei suffered a blow when a weaponry testing site called Alkantpan bought out farms (85 000 ha) in the district in 1987. The town was greatly reduced and impoverished. This is an explicit example of what Karoo communities are exposed to once farms are forced out of production. The inhabitants in the Karoo are completely reliant on agriculture for their well being and survival. Alkantpan and SKA ground are very close together and this area cannot take another punch to its economy. Alkantpan brought Van Wyksvlei to its knees, how much more should these communities be deprived of?<a href=http://www.defenceweb.co.za/index.php?option=com_content&view=article&id=45559:sixty-percent-plus-of-alkantpans-inco>At Alkantpan, foreign clients benefit  while locals suffer</a>.</p> 
 
@@ -171,7 +220,7 @@ include('header.php');
 
 	     <p>SKA has donated computers for educational purpose in Carnarvon. Some students received bursaries for further studies, and SKA employ a member of staff at the Carnarvon school. Some locals are employed to develop SKA infrastructure during construction, but this ends once construction is completed. SKA officials have proposed employing farm workers, who stand to lose their jobs, eradicating invasive trees in the area. However, farm workers are a very specialised workforce and might not want to chop down trees for a living. SKA may inform Save The Karoo about the benefits Williston, Van Wyksvlei and Brandvlei have received so these benefits may be included on this site. Certain handouts might instil a situation where dependency and expectations grow, whereas others may encourage own initiative. Donations which directly stimulate financial growth and alternative work opportunities in the area would be most effective.</p>
 
-         <p>The <a href=http://www.skaphase1.csir.co.za/wp-content/uploads/2015/03/SKA-IEMP-2016-1.pdf>CSIR report</a> mentions 9 points of advantages which SKA will bring to Carnarvon. These benefits seem to be aimed at uplifting Carnarvon's community rather than providing sustainable economic growth over the next half-a-century or more. The way forward is therefore unclear, considering that constructions may take several decades and that a fully operational SKA is expected to run for around 50 years. Phase 1 will soon displace people, but some of the promised facilities mentioned in the CSIR document are not in place. These  benefits will just touch a few lives in comparison to the scale of phase 1. It is questioned whether much of the work force for future construction will be imported from far away, housed on site and treated in a on-site clinic, disadvantaging the local workforce further.</p>
+         <p>The <a href=Documents/SKA-IEMP-2016-1.pdf>CSIR report</a> mentions 9 points of advantages which SKA will bring to Carnarvon. These benefits seem to be aimed at uplifting Carnarvon's community rather than providing sustainable economic growth over the next half-a-century or more. The way forward is therefore unclear, considering that constructions may take several decades and that a fully operational SKA is expected to run for around 50 years. Phase 1 will soon displace people, but some of the promised facilities mentioned in the CSIR document are not in place. These  benefits will just touch a few lives in comparison to the scale of phase 1. It is questioned whether much of the work force for future construction will be imported from far away, housed on site and treated in a on-site clinic, disadvantaging the local workforce further.</p>
 
          <h2 id="environmental-impact">Environmental impact</h2>
          
@@ -238,7 +287,7 @@ include('header.php');
 
 	     <p>Churches, recreational facilities, clubs and organisations and unions will lose members and their financial contributions. Cultural activities and annual traditions will fall away due to radio signal restrictions, such as the annual <a href=https://www.facebook.com/carnarvon.flyin>fly-in</a> where pilots "jet" in to Carnarvon for a weekend of flying and fun. Many towns have quaint restaurants, small hotels, annual shows, sporting events, extra curricular activities and privately organised charities and social programs to add quality of life to rural existence. Typically the weaker members of society are taken care of by private initiatives and charitable organisations as some operate with little or no state support. The success of all activities in rural towns, depend on financial contributions from the farming sector and on the participation of all its people.</p>
 	     
-	     <p>For more information see CSIR's <a href=http://www.skaphase1.csir.co.za/wp-content/uploads/2017/01/SocioEconomic-Assessment.pdf>Socio-Economic assessment</a> and <a href=http://www.skaphase1.csir.co.za/wp-content/uploads/2017/01/Agriculture-Economic-Study.pdf>Agriculture Economic study</a>.</p> 
+	     <p>For more information see CSIR's <a href=http://www.skaphase1.csir.co.za/wp-content/uploads/2017/01/SocioEconomic-Assessment.pdf>Socio-Economic assessment</a> and <a href=Documents/Agriculture-Economic-Study.pdf>Agriculture Economic study</a>.</p> 
 	     
 
 	     <h2 id="heritage">Heritage and Cultural Impact</h2>
