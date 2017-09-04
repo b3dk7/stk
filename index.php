@@ -39,7 +39,9 @@ include('header.php');
 	      <img alt="economist logo" src="img/economist-logo.png">
 	    </a>
 	    
-
+	    <p><b>Stakeholder engagement has been dissapointing as can be seen by a <a href=Documents/letter-to-Madam-Pandor-5-6-2017.pdf>letter written by a concerend stakeholder</a> to the Minister of The Department of Science and Technology. <a href=Documents/Ministerial-letter-to-EricTorr.pdf>The Minister's reply has left the affected cummunities and their umbrella forum in a vacuum, and suspicious.</b></p>
+	    
+	    
 	    <h2 id="SKA-SA-water-requirements">SKA phase 1 water requirement</h2>
 	    <p>
 	    According to the <a href=Documents/SKA-IEMP-2016-1.pdf>CSIR Integrated Management Plan</a> water requirements during peak construction of SKA phase 1 will be an astonishing 943 kilolitres per day. This is 10 to 20 times more than the average agricultural daily water requirement in the surrounding area, depending on the season, on comparable sized land. The Central Karoo is a semi-desert, and a fragile balance exists between the level of the water table and the sustainability of life, flora and fauna. The table below is found in the CSIR's Draft Integrated Management Plan, chapter two under point seven, "Water Use". </p>
